@@ -16,6 +16,22 @@ I work across backend engineering, full-stack development, distributed systems, 
  &nbsp;Ask me about **Full-stack development | AI-powered applications**  
  &nbsp;Fun fact: **I also create fine art. Engineer by logic, artist by soul.**
 
+## Technical Range
+
+| Area | Tools & Systems |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Python, Go, PHP, Java, C++, Swift, Kotlin, Dart |
+| **Frontend & Product Engineering** | React, Next.js, Vue, Inertia.js, Vite, Tailwind CSS, dashboards, admin systems, product flows |
+| **Backend & Systems** | Laravel, FastAPI, Django, Go, Node.js, NestJS, REST APIs, authentication, webhooks, integrations, business logic |
+| **Mobile** | Flutter, Dart, Swift, Kotlin |
+| **Data & Storage** | PostgreSQL, MySQL, MongoDB, Prisma, Supabase, Redis, pandas, NumPy |
+| **Distributed & Async Systems** | Queues, background jobs, event-driven workflows, concurrency, ACID transactions, audit trails, reconciliation |
+| **Cloud & Infrastructure** | AWS, Google Cloud, DigitalOcean, Docker, Kubernetes, Docker Swarm, Terraform, Nginx, Linux |
+| **Delivery & Operations** | GitHub Actions, Vercel, Cloudflare, CI/CD, containerization, infrastructure automation, Sentry |
+| **Developer Tooling** | Git, GitHub, VS Code, Postman |
+| **Product Domains** | Fintech, payments, regulated investment, multi-tenant SaaS, blockchain ticketing, streaming, event commerce, operations software |
+
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -62,6 +78,17 @@ I work across backend engineering, full-stack development, distributed systems, 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+## Selected Work
+
+| Work | What it represents |
+| :--- | :--- |
+| [ShaqoAi](https://github.com/jakes-murila/shaqoai) | Autonomous multi-agent operational platform: enterprise task orchestration, multi-agent workflows, and decentralized system architecture. |
+| [Mreal](https://github.com/jakes-murila/mreal) | Blockchain ticketing & verifiable RWA collateral platform: smart contract trade finance, anti-scalping dynamic passes, and permissioned wallet settlement. |
+| [SoundServe](https://soundserve.vercel.app) | Audio streaming & event distribution UI/UX platform: scalable media rendering, responsive frontend architecture, and continuous playback integration. |
+| [Jakes Tech Vault](https://github.com/jakes-murila/jakes-tech-vault) | Tech consultancy & product suite: full-stack software development, custom UI/UX design systems, and enterprise digital solutions. |
+| [AfyaHive](https://github.com/jakes-murila/afyahive) | Healthcare management ecosystem: patient data workflows, medical system UI branding, and secure health platform infrastructure. |
+| [Ragpilot](https://ragpilot-chatbot.streamlit.app) | RAG-powered intelligent chatbot: context-aware information retrieval, vector index integration, and interactive Streamlit UI. |
+
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -77,6 +104,17 @@ I work across backend engineering, full-stack development, distributed systems, 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Jakes-Murila&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+
+### Operating Philosophy
+
+I think in systems, workflows, and outcomes—not isolated tickets.
+
+Good software should make complex things feel simple. Whether I’m working with backend architecture, distributed systems, cloud infrastructure, APIs, or cybersecurity, I focus on building products that are reliable, understandable, and dependable in the real world.
+
+I believe correctness is a feature. I design systems around clear boundaries, explicit states, recoverable failures, observability, and the ability to understand what actually happened when things go wrong.
+
+I also approach engineering with an artist’s mindset. Software is logic, but great products require creativity, intuition, and attention to detail. Whether I’m writing code or creating art, I’m interested in the same thing: taking complexity and turning it into something people can experience effortlessly.
 
 ### 💭 Dev Quote
 
