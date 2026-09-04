@@ -13,8 +13,15 @@
 I’m a software engineer and systems builder focused on turning complex ideas into reliable, scalable products.  
 I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, APIs, and cybersecurity. I enjoy understanding how systems work beneath the surface and building software that is fast, resilient, and built to scale.
 
- &nbsp;Ask me about **Full-stack development | AI-powered applications**  
- &nbsp;Fun fact: **I also create fine art. Engineer by logic, artist by soul.**
+ ### 🔗  You Stalked This Far…
+
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jakesmurila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/jakesmurila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/amjakez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://myportfolio-seven-sandy-84.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:murilajakes0@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ## Technical Range
 
@@ -31,6 +38,11 @@ I work across backend engineering, full-stack development, distributed systems, 
 | **Developer Tooling** | Git, GitHub, VS Code, Postman |
 | **Product Domains** | Fintech, payments, regulated investment, multi-tenant SaaS, blockchain ticketing, streaming, event commerce, operations software |
 
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=amjakes&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -85,25 +97,12 @@ I work across backend engineering, full-stack development, distributed systems, 
 | [ShaqoAi](https://github.com/jakes-murila/shaqoai) | Autonomous multi-agent operational platform: enterprise task orchestration, multi-agent workflows, and decentralized system architecture. |
 | [Mreal](https://github.com/jakes-murila/mreal) | Blockchain ticketing & verifiable RWA collateral platform: smart contract trade finance, anti-scalping dynamic passes, and permissioned wallet settlement. |
 | [SoundServe](https://soundserve.vercel.app) | Audio streaming & event distribution UI/UX platform: scalable media rendering, responsive frontend architecture, and continuous playback integration. |
-| [Jakes Tech Vault](https://github.com/jakes-murila/jakes-tech-vault) | Tech consultancy & product suite: full-stack software development, custom UI/UX design systems, and enterprise digital solutions. |
-| [AfyaHive](https://github.com/jakes-murila/afyahive) | Healthcare management ecosystem: patient data workflows, medical system UI branding, and secure health platform infrastructure. |
+| [Jakes Tech Vault](https://jakes-tech-vault.vercel.app) | Tech consultancy & product suite: full-stack software development, custom UI/UX design systems, and enterprise digital solutions. |
 | [Ragpilot](https://ragpilot-chatbot.streamlit.app) | RAG-powered intelligent chatbot: context-aware information retrieval, vector index integration, and interactive Streamlit UI. |
+| [AfyaHive](https://github.com/amjakes/afyahive) | Healthcare management ecosystem: patient data workflows, medical system UI branding, and secure health platform infrastructure. |
 
-### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/jakesmurila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/jakesmurila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/amjakez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://myportfolio-seven-sandy-84.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:murilajakes0@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=amjakes&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
 
 ---
