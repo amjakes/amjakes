@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=445&height=44&lines=Full%20stack%20product%20engineer;Cloud%20%26%20Distributed%20Systems" alt="Typing headlines" />
 </p>
 
-### At a glance
+###                                                  At a glance
 
 I’m a software engineer and systems builder focused on turning complex ideas into reliable, scalable products.  
 I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, APIs, and cybersecurity. I enjoy understanding how systems work beneath the surface and building software that is fast, resilient, and built to scale.
