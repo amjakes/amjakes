@@ -106,21 +106,5 @@ I work across backend engineering, full-stack development, distributed systems, 
 </p>
 
 
-### Operating Philosophy
-
-I think in systems, workflows, and outcomes—not isolated tickets.
-
-Good software should make complex things feel simple. Whether I’m working with backend architecture, distributed systems, cloud infrastructure, APIs, or cybersecurity, I focus on building products that are reliable, understandable, and dependable in the real world.
-
-I believe correctness is a feature. I design systems around clear boundaries, explicit states, recoverable failures, observability, and the ability to understand what actually happened when things go wrong.
-
-I also approach engineering with an artist’s mindset. Software is logic, but great products require creativity, intuition, and attention to detail. Whether I’m writing code or creating art, I’m interested in the same thing: taking complexity and turning it into something people can experience effortlessly.
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/amjakes">amjakes</a></i></p>
