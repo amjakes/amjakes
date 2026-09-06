@@ -73,18 +73,14 @@ Queues · Background jobs · Event-driven workflows · Concurrency · ACID trans
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=vscodium\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-## Uptime in motion
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=amjakes&theme=github-dark" alt="amjakes contribution activity" />
-</p>
+## What I build
 
-## Service signals
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=amjakes&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224861425%3Fu%3D46f94c415615a2032617e6053753f4a119abd065%26v%3D4" alt="amjakes stats visual" />
-</p>
-
-<p><code>1,126 contributions</code> · <code>8 day streak</code></p>
-
+* **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
+* **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
+* **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
+* **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
+* **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
+* **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
 ## Selected work
 
 | Work                                                        | What it represents                                                                                                                                                  |
@@ -96,15 +92,6 @@ Queues · Background jobs · Event-driven workflows · Concurrency · ACID trans
 | **[Ragpilot](https://ragpilot-chatbot.streamlit.app)**      | RAG-powered intelligent chatbot combining context-aware retrieval, vector indexing, and an interactive Streamlit interface.                                         |
 | **[AfyaHive](https://github.com/amjakes/afyahive)**         | Healthcare management ecosystem focused on patient-data workflows, medical system UI, and secure platform infrastructure.                                           |
 | **[rag-chatbot](https://github.com/amjakes/rag-chatbot)**   | RAG-based conversational AI project exploring information retrieval, context management, and AI-assisted responses.                                                 |
-
-## What I build
-
-* **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
-* **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
-* **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
-* **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
-* **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
-* **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
 
 ## Let’s connect
 
