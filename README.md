@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=500&height=44&lines=Full-stack+product+engineer;Cloud+%26+distributed+systems;Software+%26+systems+builder" alt="Typing headlines" />
 </p>
 
-**Jakes Dev Vault** · Full-stack product engineer & systems builder
-
 <div align="center">
 
 ## About
@@ -30,19 +28,6 @@ I also create fine art.
 
 </div>
 
-## Proof at a glance
-
-<table>
-<tr>
-<td align="center"><b>30</b><br/><sub>repos</sub></td>
-<td align="center"><b>3</b><br/><sub>stars</sub></td>
-<td align="center"><b>1,111</b><br/><sub>contributions</sub></td>
-</tr>
-</table>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=amjakes&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
 
 ## Core toolkit
 
