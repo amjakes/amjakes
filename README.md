@@ -19,14 +19,14 @@ I’m a software engineer and systems builder focused on turning complex ideas i
 I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, APIs, automation, and cybersecurity.
 
 I also create fine art.
-
+</div>
 <strong>Engineer by logic, artist by soul.</strong>
 
 📍 Based in <strong>Nairobi, Kenya</strong>  
 🏢 Working at <strong>ShaqoAI</strong>  
 🌐 <a href="https://myportfolio-seven-sandy-84.vercel.app/">Website</a>
 
-</div>
+
 
 ## Core toolkit
 
