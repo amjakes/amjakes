@@ -97,6 +97,20 @@ AWS · Google Cloud · DigitalOcean · Docker · Kubernetes · Docker Swarm · T
 
 CI/CD · Containerization · Infrastructure automation · Sentry · Git · GitHub · VS Code · Postman
 
+## Uptime in motion
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=amjakes&theme=github-dark" alt="amjakes contribution activity" />
+</p>
+
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=amjakes&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224861425%3Fu%3D46f94c415615a2032617e6053753f4a119abd065%26v%3D4" alt="amjakes stats visual" />
+</p>
+
+<p><code>1,126 contributions</code> · <code>8 day streak</code></p>
+
 ## Selected work
 
 | Work                                                        | What it represents                                                                                                                                                  |
