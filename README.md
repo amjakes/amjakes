@@ -1,5 +1,3 @@
-## Profile snapshot
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=amjakes&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224861425%3Fu%3D46f94c415615a2032617e6053753f4a119abd065%26v%3D4" alt="amjakes hero visual" />
 </p>
