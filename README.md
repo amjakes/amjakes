@@ -12,6 +12,8 @@
 
 **Jakes Dev Vault** · Full-stack product engineer & systems builder
 
+<div align="center">
+
 ## About
 
 I’m a software engineer and systems builder focused on turning complex ideas into reliable, scalable products.
@@ -22,9 +24,11 @@ I also create fine art.
 
 **Engineer by logic, artist by soul.**
 
-* 📍 Based in **Nairobi, Kenya**
-* 🏢 Working at **ShaqoAI**
-* 🌐 [Website](https://myportfolio-seven-sandy-84.vercel.app/)
+📍 Based in **Nairobi, Kenya**
+🏢 Working at **ShaqoAI**
+🌐 [Website](https://myportfolio-seven-sandy-84.vercel.app/)
+
+</div>
 
 ## Proof at a glance
 
@@ -137,12 +141,12 @@ CI/CD · Containerization · Infrastructure automation · Sentry · Git · GitHu
 
 ## What I build
 
-* 🤖 **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
-* 🏗️ **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
-* ☁️ **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
-* 🔐 **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
-* 📱 **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
-* 💳 **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
+* **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
+* **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
+* **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
+* **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
+* **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
+* **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
 
 ## Let’s connect
 
