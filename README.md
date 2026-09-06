@@ -12,20 +12,20 @@
 
 <div align="center">
 
-## About
+<h2>About</h2>
 
 I’m a software engineer and systems builder focused on turning complex ideas into reliable, scalable products.
 
-I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, APIs, automation, and cybersecurity. I enjoy understanding how systems work beneath the surface and building software that is fast, resilient, and built to scale.
+I work across backend engineering, full-stack development, distributed systems, cloud infrastructure, APIs, automation, and cybersecurity.
 
 I also create fine art.
 
+<strong>Engineer by logic, artist by soul.</strong>
 
-**Engineer by logic, artist by soul.**
+📍 Based in <strong>Nairobi, Kenya</strong>  
+🏢 Working at <strong>ShaqoAI</strong>  
+🌐 <a href="https://myportfolio-seven-sandy-84.vercel.app/">Website</a>
 
-📍 Based in **Nairobi, Kenya**
-🏢 Working at **ShaqoAI**
-🌐 [Website](https://myportfolio-seven-sandy-84.vercel.app/)
 </div>
 
 ## Core toolkit
