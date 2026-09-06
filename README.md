@@ -7,8 +7,7 @@
 
 ## About
 
-I also create fine art. 
-Engineer by logic, artist by soul
+Full stack product engineer
 
 - 📍 Based in **Nairobi, Kenya**
 - 🏢 Working at **ShaqoAi**
