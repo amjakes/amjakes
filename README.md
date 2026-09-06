@@ -27,8 +27,6 @@ I also create fine art.
 🏢 Working at **ShaqoAI**
 🌐 [Website](https://myportfolio-seven-sandy-84.vercel.app/)
 
-</div>
-
 
 ## Core toolkit
 
