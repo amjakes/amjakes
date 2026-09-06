@@ -51,9 +51,6 @@ Full stack product engineer
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-### Distributed & asynchronous systems
-Queues · Background jobs · Event-driven workflows · Concurrency · ACID transactions · Audit trails · Reconciliation · Multi-agent workflows
-
 ### Cloud & infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
