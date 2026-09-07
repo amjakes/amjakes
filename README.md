@@ -8,7 +8,7 @@ Full stack product engineer
 
 - 📍 Based in **Nairobi, Kenya**
 - 🏢 Working at **ShaqoAi**
-- 🌐 [Website](https://myportfolio-seven-sandy-84.vercel.app/)
+- 🌐 [Website](https://amjakes.vercel.app/)
 - 👥 **5** followers · **1** following
 
 ## Core toolkit
