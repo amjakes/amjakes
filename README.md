@@ -3,12 +3,6 @@
 </p>
 
 
-## About
-
-- 👥 Full stack product engineer
-- 📍 Based in **Nairobi, Kenya**
-- 🏢 Working at **ShaqoAi**
-- 🌐 [Website](https://amjakes.vercel.app/)
 
 ## Core toolkit
 ### Key Languages
