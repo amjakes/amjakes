@@ -6,21 +6,14 @@ Software & Systems Engineer with a proven track record of building reliable soft
 I design and build full-stack products, cloud-native systems, AI-powered workflows, and automation solutions with a strong interest in **distributed systems, cloud infrastructure, DevOps, cybersecurity, and AI integration**.
 
 
-- 👥 Full stack product engineer
-- 📍 Based in **Nairobi, Kenya**
-- 🏢 Founder & Engineer at **ShaqoAi**
-- 🌐 [Website](https://amjakes.vercel.app/)
-
-
-
 ## What I build
 
-* **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
-* **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
-* **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
-* **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
-* **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
-* **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
+ **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
+ **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
+ **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
+ **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
+ **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
+ **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
 
 
 
@@ -53,7 +46,7 @@ I design and build full-stack products, cloud-native systems, AI-powered workflo
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://myportfolio-seven-sandy-84.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:murilajakes0@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
