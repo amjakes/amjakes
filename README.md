@@ -8,15 +8,14 @@ I design and build full-stack products, cloud-native systems, AI-powered workflo
 
 ## What I build
 
-* **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
-* **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
-* **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
-* **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
-* **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
-* **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
-
-
-
+| Area | What I Build |
+|---|---|
+| **AI & Intelligent Systems** | AI agents, RAG applications, workflow automation, and multi-agent architectures |
+| **Full-Stack Products** | APIs, dashboards, SaaS platforms, and end-to-end product experiences |
+| **Cloud & Infrastructure** | Containerized applications, CI/CD pipelines, distributed services, and deployment automation |
+| **Systems & Cybersecurity** | APIs, authentication, infrastructure, system internals, and security-focused engineering |
+| **Mobile Experiences** | Flutter, Dart, Swift, and Kotlin applications |
+| **Complex Business Systems** | Fintech, payments, operations software, event commerce, and multi-tenant platforms |
 ## Selected work
 
 | Work                                                        | What it represents                                                                                                                                                  |
