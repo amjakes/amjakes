@@ -1,8 +1,15 @@
-## About
+<div align="center">
+
+## Jakes Dev Vault
+
+**Software & Systems Engineer** focused on building reliable software, scalable infrastructure, and intelligent systems.
+
+I design and build full-stack products, cloud-native systems, AI-powered workflows, and automation solutions — with a strong interest in **distributed systems, cloud infrastructure, DevOps, cybersecurity, and AI integration**.
+
 
 - 👥 Full stack product engineer
 - 📍 Based in **Nairobi, Kenya**
-- 🏢 Working at **ShaqoAi**
+- 🏢 Founder & Engineer at **ShaqoAi**
 - 🌐 [Website](https://amjakes.vercel.app/)
 ## What I build
 
