@@ -2,25 +2,30 @@
 
 ## Jakes Dev Vault
 
-**Software & Systems Engineer** focused on building reliable software, scalable infrastructure, and intelligent systems.
-
-I design and build full-stack products, cloud-native systems, AI-powered workflows, and automation solutions — with a strong interest in **distributed systems, cloud infrastructure, DevOps, cybersecurity, and AI integration**.
-
+Software & Systems Engineer with a proven track record of building reliable software, scalable infrastructure, and intelligent systems.
+I design and build full-stack products, cloud-native systems, AI-powered workflows, and automation solutions with a strong interest in **distributed systems, cloud infrastructure, DevOps, cybersecurity, and AI integration**.
+</div>
 
 - 👥 Full stack product engineer
 - 📍 Based in **Nairobi, Kenya**
 - 🏢 Founder & Engineer at **ShaqoAi**
 - 🌐 [Website](https://amjakes.vercel.app/)
-## What I build
 
+<div align="center">
+
+## What I build
+</div>
 * **AI & intelligent systems** — AI agents, RAG applications, workflow automation, and multi-agent architectures
 * **Full-stack products** — APIs, dashboards, SaaS platforms, and end-to-end product experiences
 * **Cloud & infrastructure** — containerized applications, CI/CD pipelines, distributed services, and deployment automation
 * **Systems & cybersecurity** — APIs, authentication, infrastructure, system internals, and security-focused engineering
 * **Mobile experiences** — Flutter, Dart, Swift, and Kotlin applications
 * **Complex business systems** — fintech, payments, operations software, event commerce, and multi-tenant platforms
-## Selected work
 
+<div align="center">
+
+## Selected work
+</div>
 | Work                                                        | What it represents                                                                                                                                                  |
 | :---------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **[ShaqoAI](https://github.com/jakes-murila/shaqoai)**      | Autonomous multi-agent operational platform focused on enterprise task orchestration, intelligent workflows, and scalable system architecture.                      |
@@ -30,9 +35,10 @@ I design and build full-stack products, cloud-native systems, AI-powered workflo
 | **[Ragpilot](https://ragpilot-chatbot.streamlit.app)**      | RAG-powered intelligent chatbot combining context-aware retrieval, vector indexing, and an interactive Streamlit interface.                                         |
 | **[AfyaHive](https://github.com/amjakes/afyahive)**         | Healthcare management ecosystem focused on patient-data workflows, medical system UI, and secure platform infrastructure.                                           |
 | **[rag-chatbot](https://github.com/amjakes/rag-chatbot)**   | RAG-based conversational AI project exploring information retrieval, context management, and AI-assisted responses.                                                 |
+<div align="center">
 
 ## Let’s connect
-
+</div>
 <p align="center">
   <a href="https://github.com/amjakes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
