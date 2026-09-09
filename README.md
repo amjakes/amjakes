@@ -4,7 +4,7 @@
 
 Software & Systems Engineer with a proven track record of building reliable software, scalable infrastructure, and intelligent systems.
 I design and build full-stack products, cloud-native systems, AI-powered workflows, and automation solutions with a strong interest in **distributed systems, cloud infrastructure, DevOps, cybersecurity, and AI integration**.
-</div>
+
 
 - 👥 Full stack product engineer
 - 📍 Based in **Nairobi, Kenya**
@@ -36,9 +36,9 @@ I design and build full-stack products, cloud-native systems, AI-powered workflo
 | **[AfyaHive](https://github.com/amjakes/afyahive)**         | Healthcare management ecosystem focused on patient-data workflows, medical system UI, and secure platform infrastructure.                                           |
 | **[rag-chatbot](https://github.com/amjakes/rag-chatbot)**   | RAG-based conversational AI project exploring information retrieval, context management, and AI-assisted responses.                                                 |
 
-<h align="center">
+
 ## Let’s connect
-</h>  
+
 <p align="center">
   <a href="https://github.com/amjakes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
